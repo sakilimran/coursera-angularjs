@@ -1,2 +1,2 @@
 # coursera-angularjs
-AngularJs repo for Coursera
+AngularJs Learning Repo (Coursera)
